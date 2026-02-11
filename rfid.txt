@@ -4,13 +4,13 @@
 #include <MFRC522.h>
 
 // Replace with your network credentials
-#define WIFI_SSID "LALU"
-#define WIFI_PASSWORD "wwrg6948"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Replace with your Firebase project credentials
-#define FIREBASE_HOST "https://rfid-based-voting-system-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "0Wq89ov7fcfMsm3JlRvi4WfPu0sPOHea5K9Iu6s3"
-#define FIREBASE_API_KEY "AIzaSyALodngOVIp3dpRuRy7KZT0qFHh1IctxAk"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
+#define FIREBASE_API_KEY ""
 
 // Pin Definitions
 #define BUTTON_PIN 15  // Button for voting (GPIO 15 as defined in your case)
